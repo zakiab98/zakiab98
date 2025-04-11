@@ -2,12 +2,13 @@
 
 - 🌱 I’m currently learning how to code
 - 😄 Pronouns: She/Her
--Follow my journey with codédex :
+- Follow my journey with codédex :
+- 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@LittleBiscoff/30-nites-of-code)  
   ![@LittleBiscoff #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LittleBiscoff)
 
-**zakiab98/zakiab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **zakiab98/zakiab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@LittleBiscoff/30-nites-of-code)  
-  ![@LittleBiscoff #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LittleBiscoff)
-<!--
+
+
