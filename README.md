@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code
 - 😄 Pronouns: She/Her
 - Follow my journey with codédex :
-- 
+  
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@LittleBiscoff/30-nites-of-code)  
   ![@LittleBiscoff #30NitesOfCode](https://www.codedex.io/api/petStatus?user=LittleBiscoff)
